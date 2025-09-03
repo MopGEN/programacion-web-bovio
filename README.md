@@ -1,6 +1,6 @@
 # HOLA
 
-Hola soy Bovio 
+Hola soy Bovio, hola bovio y yo somos novios
 
 # NO M COPIES
 
